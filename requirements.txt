@@ -5,3 +5,4 @@ python-dotenv
 pydantic
 ipykernel
 langchain-google-genai
+1234sk-proj-g3Ic_aQEYrjZWAzM9InrBXIC33Nh1CQPE9jdKvJSJZl0kEdfTj-SzX9meInaSvvQ1oz2Jj6lylT3BlbkFJUNEb8aM8U9_dx2ilFXvD_hhQ01nQH0Dx8ofqTO6TisqoRT7oGud29VrchcjeGtdNdftflW8YkA1234
