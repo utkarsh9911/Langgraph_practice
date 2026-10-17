@@ -1,3 +1,5 @@
+gsk_Bmv29Jm7XmxFdT1OJzNYWGdyb3FYx4uPJKygJa28oGUVtjmPITKg1234
+
 langchain
 langgraph
 google-generativeai
